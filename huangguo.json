@@ -36,7 +36,7 @@
     ]
   },
   "web": {
-    "spider": "https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@main/huangguo.js",
+    "spider": "https://cdn.jsdelivr.net/gh/zmscrc04/aiivideo-sources@main/huangguo.js",
     "firstPageSize": 20,
     "pageSize": 20,
     "ui": {
